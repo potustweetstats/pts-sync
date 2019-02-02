@@ -1,0 +1,28 @@
+{
+    "Presidents": [
+        {
+            "name": "Barack Obama",
+            "termStart": "2009-01-20",
+            "termEnd": "2017-01-20",
+            "personalTwitter": "barackobama",
+            "officialTwitter": "potus44"
+        },
+        {
+            "name": "Donald Trump",
+            "termStart": "2017-01-20",
+            "termEnd": "",
+            "personalTwitter": "realDonaldTrump",
+            "officialTwitter": "potus"
+        }
+    ],
+    "Twitter": {
+        "key": "",
+        "secret": ""
+    },
+    "DB": {
+        "user": "",
+        "password": "",
+        "host": "127.0.0.1",
+        "database": ""
+    }
+}

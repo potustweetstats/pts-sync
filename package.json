@@ -1,0 +1,27 @@
+{
+  "name": "pts-sync",
+  "version": "1.0.0",
+  "description": "POTUS Tweet Stats sync service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potustweetstats/pts-sync.git"
+  },
+  "author": "Bear Cherian",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/potustweetstats/pts-sync/issues"
+  },
+  "homepage": "https://github.com/potustweetstats/pts-sync#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "config": "^3.0.1",
+    "pg": "^7.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0"
+  }
+}
